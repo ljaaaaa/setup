@@ -1,4 +1,4 @@
-# TO ISTALL [WINDOWS]
+# TO INSTALL [WINDOWS]
 
 To my knowledge all of these need to be downloaded from online (cuz it's windows)
 
