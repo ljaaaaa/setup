@@ -1,4 +1,5 @@
 # TO INSTALL [UBUNTU]
+You can also use install.sh for installing all packages provided by snap and apt
 
 ### General
 - Discord: sudo snap install discord 
@@ -30,8 +31,6 @@
 - Dosbox: sudo apt install dosbox
 - Citra: (online download)
 - Minetest: sudo apt install minetest
-- SuperTux: sudo apt install supertux
-- SuperTux Kart: sudo apt install supertuxkart
 
 ### For Fun
 - Sl: sudo apt install sl
