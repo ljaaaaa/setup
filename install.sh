@@ -1,8 +1,7 @@
 #!/bin/sh
 
 #This script is meant to be used to install apps that can be installed with apt and snap
-
-sudo su
+#Run as root
 
 ### General
 echo DISCORD; snap install discord 
