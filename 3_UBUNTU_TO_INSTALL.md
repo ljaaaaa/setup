@@ -1,4 +1,4 @@
-# TO INSTALL
+# TO INSTALL [UBUNTU]
 
 ### General
 - Discord: sudo snap install discord 
