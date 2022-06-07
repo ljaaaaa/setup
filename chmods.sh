@@ -8,6 +8,6 @@ chmod +x ~/*.sh; chmod +x ~/*.desktop;
 for x in ~/*/ ; do
 	echo "$x"
 	cd "$x"
-    	chmod +x *.sh; chmod +x *.desktop
+    	chmod +x *.sh; chmod +x *.desktop; chmod +x *.out;
 	cd ..
 done
