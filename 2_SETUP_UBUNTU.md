@@ -2,6 +2,8 @@
 
 First make sure you have a partition in your disk that you want ubuntu to take
 
+<img align="right" width="250" src="https://github.com/LiljaKiiski/setup/blob/master/images/ubuntu_logo.png" />
+
 1. Download Ubuntu ISO [from here](https://ubuntu.com/download/desktop)
 - For now use [20.04](https://releases.ubuntu.com/20.04/) LTS as 22.04 has issues
 
