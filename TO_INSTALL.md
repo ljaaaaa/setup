@@ -28,10 +28,7 @@
 
 ### Games
 - Dosbox: sudo apt install dosbox
-- Dolphin Emulator: sudo apt install dolphin-emu
 - Citra: (online download)
-  - Animal Crossing New Leaf
-  - Super Mario 3D Land
 - Minetest: sudo apt install minetest
 - SuperTux: sudo apt install supertux
 - SuperTux Kart: sudo apt install supertuxkart
@@ -39,7 +36,4 @@
 ### For Fun
 - Sl: sudo apt install sl
 - Neofetch: sudo apt install neofetch
-- Xscreensaver: 
-  - sudo apt-get remove gnome-screensaver
-  - sudo apt-get install xscreensaver xscreensaver-gl-extra xscreensaver-data-extra
-  - Make startup application with command: xscreensaver -nosplash
+- Xscreensaver: sudo apt-get install xscreensaver xscreensaver-gl-extra xscreensaver-data-extra
