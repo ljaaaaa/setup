@@ -1,7 +1,12 @@
 #!/bin/sh
 
-#This script is meant to be used to install apps that can be installed with apt and snap
 #Run as root
+#This script is meant to be used to install apps that can be installed with apt and snap
+
+if ! [ $(id -u) = 0 ];
+        then echo "Please run this script as root";
+        exit;
+fi
 
 ### General
 echo DISCORD; snap install discord 

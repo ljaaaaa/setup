@@ -3,14 +3,11 @@
 #This script is meant to make all shell scripts and .desktop files executable after getting them from backup USB
 #Place this script in home directory
 
-echo "starting"
+chmod +x ~/*.sh; chmod +x ~/*.desktop;
 
-chmod +x *.sh; chmod +x *.desktop;
-
-for x in */ ; do
+for x in ~/*/ ; do
 	echo "$x"
 	cd "$x"
     	chmod +x *.sh; chmod +x *.desktop
 	cd ..
-echo "end"
 done
