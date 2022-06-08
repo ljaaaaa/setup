@@ -29,6 +29,7 @@ echo JRE; apt install default-jre
 # Python3:
 echo PYGAME; apt install python3-pygame
 echo TKINTER; apt install python3-tk
+echo KIVY; apt install python3-kivy
 # TypeScript/JavaScript
 echo NPM; apt install npm
 echo TYPESCRIPT; npm install -g typescript
