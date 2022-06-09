@@ -19,7 +19,7 @@ xclip -sel clip < ~/.ssh/id_rsa.pub
 #Add clip to GitHub at https://github.com/settings/keys
 
 #Set dark mode
-# ls -d /usr/share/themes/* |xargs -L 1 basename
+ls -d /usr/share/themes/* |xargs -L 1 basename
 gsettings set org.gnome.desktop.interface gtk-theme 'Yaru-dark'
 
 #Set vim as default editor
