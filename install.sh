@@ -12,6 +12,7 @@ fi
 echo DISCORD; snap install discord 
 echo SPOTIFY; snap install spotify
 echo GIMP; apt install gimp
+echo LOCATE; apt install mlocate
 # Chrome (online download)
 
 ### For Programming
@@ -34,6 +35,8 @@ echo KIVY; apt install python3-kivy
 echo NPM; apt install npm
 echo TYPESCRIPT; npm install -g typescript
 echo NODEJS; apt install nodejs
+
+echo FRITZING; apt install fritzing
 
 ### Games
 echo DOSBOX; apt install dosbox
