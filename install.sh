@@ -35,6 +35,7 @@ echo KIVY; apt install python3-kivy
 echo NPM; apt install npm
 echo TYPESCRIPT; npm install -g typescript
 echo NODEJS; apt install nodejs
+echo YARN; apt install cmdtest
 
 echo FRITZING; apt install fritzing
 
