@@ -37,14 +37,17 @@ echo TYPESCRIPT; npm install -g typescript
 echo NODEJS; apt install nodejs
 echo YARN; apt install cmdtest
 
-echo FRITZING; apt install fritzing
-
 ### Games
 echo DOSBOX; apt install dosbox
 # Citra: (online download)
 echo MINETEST; apt install minetest
 
-### For Fun
+### Other
 echo SL; apt install sl
 echo NEOFETCH; apt install neofetch
 echo XSCREENSAVER; apt-get install xscreensaver xscreensaver-gl-extra xscreensaver-data-extra
+echo FRITZING; apt install fritzing
+echo PIP; apt install python3-pip
+echo FFMPEG; apt install ffmpeg
+echo SPOTDL; pip install spotdl
+
