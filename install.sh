@@ -50,4 +50,5 @@ echo FRITZING; apt install fritzing
 echo PIP; apt install python3-pip
 echo FFMPEG; apt install ffmpeg
 echo SPOTDL; pip install spotdl
+echo CURL; apt install curl
 
