@@ -39,16 +39,14 @@ echo YARN; apt install cmdtest
 
 ### Games
 echo DOSBOX; apt install dosbox
-# Citra: (online download)
 echo MINETEST; apt install minetest
 
 ### Other
 echo SL; apt install sl
 echo NEOFETCH; apt install neofetch
-echo XSCREENSAVER; apt-get install xscreensaver xscreensaver-gl-extra xscreensaver-data-extra
+# echo XSCREENSAVER; apt-get install xscreensaver xscreensaver-gl-extra xscreensaver-data-extra
 echo FRITZING; apt install fritzing
 echo PIP; apt install python3-pip
 echo FFMPEG; apt install ffmpeg
 echo SPOTDL; pip install spotdl
 echo CURL; apt install curl
-
