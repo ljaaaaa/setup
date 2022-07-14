@@ -14,6 +14,7 @@ echo SPOTIFY; snap install spotify
 echo GIMP; apt install gimp
 echo LOCATE; apt install mlocate
 # Chrome (online download)
+# Zoom (online download)
 
 ### For Programming
 echo GIT; apt install git
@@ -50,3 +51,4 @@ echo PIP; apt install python3-pip
 echo FFMPEG; apt install ffmpeg
 echo SPOTDL; pip install spotdl
 echo CURL; apt install curl
+echo PAPIRUS; apt install papirus-icon-theme
