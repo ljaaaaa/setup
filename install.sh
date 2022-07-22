@@ -25,6 +25,7 @@ echo VIM; apt install vim
 # Android Studio: (online download)
 # C++:
 echo G++; apt install g++
+echo SDL2; apt install libsdl2-dev
 # Java:
 echo JDK; apt install default-jdk
 echo JRE; apt install default-jre
