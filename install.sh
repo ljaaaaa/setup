@@ -44,6 +44,7 @@ echo DOSBOX; apt install dosbox
 echo MINETEST; apt install minetest
 
 ### Other
+echo FLATPAK; apt install flatpak
 echo SL; apt install sl
 echo NEOFETCH; apt install neofetch
 # echo XSCREENSAVER; apt-get install xscreensaver xscreensaver-gl-extra xscreensaver-data-extra
