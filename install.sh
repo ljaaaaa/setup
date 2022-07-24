@@ -35,6 +35,10 @@ echo TYPESCRIPT; npm install -g typescript
 echo NODEJS; apt install nodejs
 echo YARN; apt install cmdtest
 
+#Sketchy Stuff
+echo AIRCRACK; apt install aircrack-ng
+echo WIRESHARK; apt install wireshark
+
 ### Games
 echo DOSBOX; apt install dosbox
 echo MINETEST; apt install minetest
