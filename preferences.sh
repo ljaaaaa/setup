@@ -18,6 +18,10 @@ echo "XCLIP"; apt-get install xclip
 xclip -sel clip < ~/.ssh/id_rsa.pub
 #Add clip to GitHub at https://github.com/settings/keys
 
+#Git
+git config --global user.email "lilja.maria.kiiski@gmail.com"
+git config --global user.name "Lilja Kiiski"
+
 #Set dark mode
 ls -d /usr/share/themes/* |xargs -L 1 basename
 gsettings set org.gnome.desktop.interface gtk-theme 'Yaru-dark'
@@ -29,16 +33,16 @@ update-alternatives --config editor
 usermod -a -G dialout lilja
 
 #Xscreensaver
-apt remove gnome-screensaver #Remove default screensaver
+#apt remove gnome-screensaver #Remove default screensaver
 
-touch /home/lilja/.config/autostart/xscreensaver.desktop
-echo "[Desktop Entry]
-Type=Application
-Exec=xscreensaver -nosplash
-Hidden=false
-NoDisplay=false
-X-GNOME-Autostart-enabled=true
-Name[en_US]=xscreensaver
-Name=xscreensaver
-Comment[en_US]=start xscreensaver
-Comment=start xscreensaver" > /home/lilja/.config/autostart/xscreensaver.desktop
+#touch /home/lilja/.config/autostart/xscreensaver.desktop
+#echo "[Desktop Entry]
+#Type=Application
+#Exec=xscreensaver -nosplash
+#Hidden=false
+#NoDisplay=false
+#X-GNOME-Autostart-enabled=true
+#Name[en_US]=xscreensaver
+#Name=xscreensaver
+#Comment[en_US]=start xscreensaver
+#Comment=start xscreensaver" > /home/lilja/.config/autostart/xscreensaver.desktop

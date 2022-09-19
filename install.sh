@@ -56,7 +56,6 @@ echo SL; apt install sl
 echo NEOFETCH; apt install neofetch
 
 # echo XSCREENSAVER; apt-get install xscreensaver xscreensaver-gl-extra xscreensaver-data-extra
-
 echo FRITZING; apt install fritzing
 echo PIP; apt install python3-pip
 echo FFMPEG; apt install ffmpeg
