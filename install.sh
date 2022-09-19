@@ -11,7 +11,6 @@ fi
 ### For Programming
 echo GIT; apt install git
 echo VIM; apt install vim
-# WPILib: (online download)
 # VS Code: (online download)
 # Arduino IDE: (online download)
 # Android Studio: (online download)
@@ -48,6 +47,7 @@ echo DISCORD; snap install discord
 echo SPOTIFY; snap install spotify
 echo GIMP; apt install gimp
 echo LOCATE; apt install mlocate
+echo CLOCKS; apt install gnome-clocks
 # Chrome (online download)
 # Zoom (online download)
 
@@ -55,10 +55,8 @@ echo FLATPAK; apt install flatpak
 echo SL; apt install sl
 echo NEOFETCH; apt install neofetch
 
-# echo XSCREENSAVER; apt-get install xscreensaver xscreensaver-gl-extra xscreensaver-data-extra
 echo FRITZING; apt install fritzing
 echo PIP; apt install python3-pip
 echo FFMPEG; apt install ffmpeg
 echo SPOTDL; pip install spotdl
 echo CURL; apt install curl
-echo PAPIRUS; apt install papirus-icon-theme
