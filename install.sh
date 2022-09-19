@@ -18,6 +18,7 @@ echo VIM; apt install vim
 # C++:
 echo G++; apt install g++
 echo SDL2; apt install libsdl2-dev
+echo CMAKE; apt install cmake
 
 # Java:
 echo JDK; apt install default-jdk
