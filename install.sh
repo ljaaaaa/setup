@@ -38,6 +38,7 @@ echo YARN; apt install cmdtest
 #Sketchy Stuff
 echo AIRCRACK; apt install aircrack-ng
 echo WIRESHARK; apt install wireshark
+echo NET-TOOLS; apt install net-tools
 
 ### Games
 echo DOSBOX; apt install dosbox
