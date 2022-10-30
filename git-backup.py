@@ -2,7 +2,7 @@
 
 import os
 
-repos = ['setup', 'game-idea', 'LiljaKiiski', 'swing-template', 'pid-sim', 'android-apps', 'gomoku', 'arcade-games', 'robotics-motors', 'robotics-drivetrain', 'robotics-hopper', 'cpp-club-projects', 'client-server-template', 'element-finder', 'incomplete-chess', 'koding-kiiskis-website', 'robotics-leds', 'fun-stuff', 'cpp-projects', 'liljakiiski.github.io']
+repos = ['android-apps', 'arcade-games', 'client-server-template', 'cpp-club-projects', 'cpp-project', 'element-finder', 'fun-stuff', 'game-idea', 'gomoku', 'hills', 'incomplete-chess', 'koding-kiiskis-website', 'lights', 'LiljaKiiski', 'liljakiiski.github.io', 'pid-sim', 'robotics-drivetrain', 'robotics-hopper', 'robotics-leds', 'robotics-motors', 'rust-project', 'sdl-test', 'setup', 'swing-template']
 
 os.system('mkdir ~/git-backups')
 
