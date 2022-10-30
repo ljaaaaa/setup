@@ -40,6 +40,9 @@ echo AIRCRACK; apt install aircrack-ng
 echo WIRESHARK; apt install wireshark
 echo NET-TOOLS; apt install net-tools
 
+#Wine: https://wine.htmlvalidator.com/install-wine-on-ubuntu-20.04.html
+#https://askubuntu.com/questions/984844/e-unable-to-locate-package-winehq-stable
+
 ### Games
 echo DOSBOX; apt install dosbox
 echo MINETEST; apt install minetest
@@ -64,3 +67,5 @@ echo PIP; apt install python3-pip
 echo FFMPEG; apt install ffmpeg
 echo SPOTDL; pip install spotdl
 echo CURL; apt install curl
+
+echo COREDUMPS; apt install systemd-coredump
