@@ -58,6 +58,7 @@ echo SUS2; apt remove gstreamer1.0-vaapi
 # Chrome (online download)
 # Zoom (online download)
 
+# Ustup (online) https://rustup.rs/
 echo FLATPAK; apt install flatpak
 echo SL; apt install sl
 echo NEOFETCH; apt install neofetch
