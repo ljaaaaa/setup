@@ -70,3 +70,6 @@ echo SPOTDL; pip install spotdl
 echo CURL; apt install curl
 
 echo COREDUMPS; apt install systemd-coredump
+
+# thing from here for wpilib 22.04: http://security.ubuntu.com/ubuntu/pool/main/o/openssl1.0/
+
