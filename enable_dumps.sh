@@ -2,6 +2,7 @@
 
 #Enable dumps in ubuntu 22.04 cuz it sucks
 #Some of these things may work:
+#I was smart so I don't know which her actually makes them work
 
 #view logs with: 
 #cat /var/log/apport.log
