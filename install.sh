@@ -72,5 +72,8 @@ echo CURL; apt install curl
 echo COREDUMPS; apt install systemd-coredump
 echo BOOKS; apt install gnome-books
 
+echo AUDACITY; apt install audacity
+echo YOUTUBE-DL; apt install youtube-dl
+
 # thing from here for wpilib 22.04: http://security.ubuntu.com/ubuntu/pool/main/o/openssl1.0/
 
