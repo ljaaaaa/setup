@@ -84,4 +84,3 @@ echo THING; appt -y install bridge-utils cpu-checker libvirt-clients libvirt-dae
 #cloudflared!!! https://developers.cloudflare.com/warp-client/get-started/linux/
 
 # thing from here for wpilib 22.04: http://security.ubuntu.com/ubuntu/pool/main/o/openssl1.0/
-
