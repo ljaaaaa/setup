@@ -79,7 +79,10 @@ echo LLMS; apt install lmms #music thing like garageband
 echo FCRACK; apt install fcrackzip
 echo WINETRICKS; apt install winetricks
 
-echo THING; appt -y install bridge-utils cpu-checker libvirt-clients libvirt-daemon qemu qemu-kvm
+echo MP31; apt install mpg123;
+echo MP32; apt install mpg321;
+
+echo THING; apt -y install bridge-utils cpu-checker libvirt-clients libvirt-daemon qemu qemu-kvm
 
 #cloudflared!!! https://developers.cloudflare.com/warp-client/get-started/linux/
 
