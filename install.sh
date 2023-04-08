@@ -53,6 +53,8 @@ echo SPOTIFY; snap install spotify
 echo GIMP; apt install gimp
 echo LOCATE; apt install mlocate
 echo CLOCKS; apt install gnome-clocks
+
+#Music works now
 echo SUS; apt install ubuntu-restricted-extras
 echo SUS2; apt remove gstreamer1.0-vaapi
 # Chrome (online download)
