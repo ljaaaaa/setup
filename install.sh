@@ -89,6 +89,11 @@ echo THING; apt -y install bridge-utils cpu-checker libvirt-clients libvirt-daem
 echo VENV; apt install python3.10-venv
 echo SCREEN; apt install simplescreenrecorder
 
+#DaVinci
+#https://support.zivid.com/en/latest/getting-started/software-installation/gpu/install-opencl-drivers-ubuntu.html
+echo CLINFO; apt install clinfo
+#/usr/bin/clinfo -l
+
 #cloudflared: https://developers.cloudflare.com/warp-client/get-started/linux/
 
 # thing from here for wpilib 22.04: http://security.ubuntu.com/ubuntu/pool/main/o/openssl1.0/
