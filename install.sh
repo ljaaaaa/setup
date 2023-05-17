@@ -95,5 +95,8 @@ echo CLINFO; apt install clinfo
 #/usr/bin/clinfo -l
 
 #cloudflared: https://developers.cloudflare.com/warp-client/get-started/linux/
+#https://scirex.me/bits/setup-cloudflare-warp/
+#https://www.reddit.com/r/CloudFlare/comments/q0hqj4/warpcli_is_not_working/
+#curl https://www.cloudflare.com/cdn-cgi/trace/
 
 # thing from here for wpilib 22.04: http://security.ubuntu.com/ubuntu/pool/main/o/openssl1.0/
