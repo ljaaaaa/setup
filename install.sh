@@ -46,6 +46,7 @@ echo NET-TOOLS; apt install net-tools
 ### Games
 echo DOSBOX; apt install dosbox
 echo MINETEST; apt install minetest
+echo CITRA; snap install citra-emu
 
 ### Other
 echo DISCORD; snap install discord
