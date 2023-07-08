@@ -90,6 +90,8 @@ echo THING; apt -y install bridge-utils cpu-checker libvirt-clients libvirt-daem
 echo VENV; apt install python3.10-venv
 echo SCREEN; apt install simplescreenrecorder
 
+echo FCEUX; apt install fceux #nes emu
+
 #DaVinci
 #https://support.zivid.com/en/latest/getting-started/software-installation/gpu/install-opencl-drivers-ubuntu.html
 echo CLINFO; apt install clinfo
