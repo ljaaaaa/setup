@@ -32,6 +32,11 @@ update-alternatives --config editor
 #Arduino setup
 usermod -a -G dialout lilja
 
+#Bluetooth fix
+#sudo apt install --reinstall pulseaudio-module-bluetooth
+#pactl unload-module module-bluetooth-discover
+#pactl load-module module-bluetooth-discover
+
 #Xscreensaver
 #apt remove gnome-screensaver #Remove default screensaver
 
