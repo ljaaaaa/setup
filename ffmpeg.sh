@@ -1,6 +1,8 @@
-#!/bin/sh
+# !/bin/sh
+# Helper tool to remember file format conversion with ffmpeg
 
-echo "Use these to convert between file formats"
+echo "Convert between file formats examples"
 
-echo ".amr to .mp3"
-echo "ffmpeg -i audio1.amr -ar 22050 audio1.mp3"
+echo ""
+echo ".AMR to .MP3"
+echo "ffmpeg -i [audio.amr] -ar 22050 [audio.mp3]"
