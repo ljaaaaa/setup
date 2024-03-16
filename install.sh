@@ -111,7 +111,11 @@ echo SCREEN; apt install simplescreenrecorder
 # DaVinci
 #https://support.zivid.com/en/latest/getting-started/software-installation/gpu/install-opencl-drivers-ubuntu.html
 echo CLINFO; apt install clinfo
+
+echo puTTY; apt install -y putty
 # /usr/bin/clinfo -l
+
+#Proton: https://protonvpn.com/support/official-ubuntu-vpn-setup/
 
 # Cloudflared
 # https://developers.cloudflare.com/warp-client/get-started/linux/
