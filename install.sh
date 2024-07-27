@@ -115,6 +115,8 @@ echo CLINFO; apt install clinfo
 echo puTTY; apt install -y putty
 # /usr/bin/clinfo -l
 
+#Snes9X (online download)
+
 #Proton: https://protonvpn.com/support/official-ubuntu-vpn-setup/
 
 # Cloudflared
