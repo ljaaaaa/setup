@@ -134,4 +134,8 @@ apt install bettercap #wifi
 
 apt install k3b #CD/DVD burner
 
+#Brave Browser (+ VPN)
+#https://brave.com/linux/
+curl -fsS https://dl.brave.com/install.sh | sh
+
 #if issues with spotdl, fix bitrate https://github.com/spotDL/spotify-downloader/issues/2333
